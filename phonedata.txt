@@ -1,0 +1,7 @@
+{"name":"Vasya", "mnum":5555555, "hnum":6666666, "email":"vasya@mail.ru", "skype":"vasya.vasya"}
+{"name":"Vasya1", "mnum":5555556, "hnum":6666667, "email":"vasya1@mail.ru", "skype":"vasya1.vasya1"}
+{"name":"Vasya2", "mnum":5555557, "hnum":6666668, "email":"vasya2@mail.ru", "skype":"vasya2.vasya2"}
+{"name":"Vasya3", "mnum":5555558, "hnum":6666669, "email":"vasya3@mail.ru", "skype":"vasya3.vasya3"}
+{"name":"Vasya4", "mnum":5555559, "hnum":6666670, "email":"vasya4@mail.ru", "skype":"vasya4.vasya4"}
+{"name":"Vasya5", "mnum":5555560, "hnum":6666671, "email":"vasya5@mail.ru", "skype":"vasya5.vasya5"}
+{"name":"Vasya6", "mnum":5555561, "hnum":6666672, "email":"vasya6@mail.ru", "skype":"vasya6.vasya6"}
